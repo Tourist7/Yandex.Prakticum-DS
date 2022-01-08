@@ -3,7 +3,6 @@ This depository stores my projects from the Yandex.Practicum course Data Science
 -Yandex Praktikum Projects from 9 months of studying
 Every project has its own purposes in terms of new set of skills that every project containg
 I will try my best to elaborate them in their names
-Проекты с Яндекс Практикума ,которые выполнял на протяжении 9 месяцев. В каждом из них есть новый аспект , который изучал в течение 2 недель и в итоге реализован в проекте. В таблице предоставлены все проекты ,которые были выполнены с кратким описанием и библиотеками. Порядок сделан так ,что первые идут самые первые проекты.
 <br>
 <table>
   <tr>
