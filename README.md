@@ -11,7 +11,7 @@ I will try my best to elaborate them in their names
     <td>Библиотеки</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PineAppleUser/Yandex_praktikum/tree/main/Credit_scoring_EDA">Исследование надёжности заёмщиков</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/first.ipynb">Исследование надёжности заёмщиков</a></td>
     <td>Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.</td>
     <td>pandas</td>
   </tr>
