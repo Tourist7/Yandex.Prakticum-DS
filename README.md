@@ -97,6 +97,4 @@ matplotlib,
 numpy,
 sklearn,catboost,lightgbm,xgboost</td>
   </tr>
-  <tr>
-  </tr>
 </table>
