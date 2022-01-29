@@ -24,9 +24,9 @@ I will try my best to elaborate them in their names
     <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/third.ipynb">Определение перспективного тарифа для телеком компании</a></td>
     <td>Вы аналитик компании «Мегалайн» — федерального оператора сотовой связи. Клиентам предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег.</td>
     <td>pandas,
-, seaborn
-, scipy
-, numpy</td>
+seaborn, 
+scipy, 
+numpy</td>
   </tr>
     <tr>
     <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/third.ipynb">Изучение закономерностей определяющих успешность игр</a></td>
@@ -87,7 +87,7 @@ sklearn</td>
     <td>pandas,
 matplotlib,
 numpy,
-sklearn,catboost,lightgbm,xgboost</td>
+sklearn, catboost, lightgbm, xgboost</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/third.ipynb">Прогнозирование заказов такси на следующий час</a></td>
@@ -95,6 +95,6 @@ sklearn,catboost,lightgbm,xgboost</td>
     <td>pandas,
 matplotlib,
 numpy,
-sklearn,catboost,lightgbm,xgboost</td>
+sklearn, catboost, lightgbm, xgboost</td>
   </tr>
 </table>
