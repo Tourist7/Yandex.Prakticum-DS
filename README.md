@@ -55,7 +55,7 @@ sklearn</td>
   </tr>
   </tr>
     <tr>
-    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/fifth.ipynb">Предсказание лучшего места для скважины</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/sixth.ipynb">Предсказание лучшего места для скважины</a></td>
     <td>Вам предоставлены пробы нефти в трёх регионах. Характеристики для каждой скважины в регионе уже известны. Постройте модель для определения региона, где добыча принесёт наибольшую прибыль.</td>
     <td>pandas,
 numpy,
@@ -64,7 +64,7 @@ sklearn</td>
   </tr>
   </tr>
     <tr>
-    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/fifth.ipynb">Подготовка прототипа модели для металлообрабатывающего предприятия</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/sixth.ipynb">Подготовка прототипа модели для металлообрабатывающего предприятия</a></td>
     <td>Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки.</td>
     <td>pandas,
 matplotlib,
@@ -74,7 +74,7 @@ sklearn</td>
   </tr>
   </tr>
     <tr>
-    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/fifth.ipynb">Разработка алгоритма для защиты данных</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/sixth.ipynb">Разработка алгоритма для защиты данных</a></td>
     <td>Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуйте корректность его работы.</td>
     <td>pandas,
 numpy,
@@ -82,7 +82,7 @@ sklearn</td>
   </tr>
   </tr>
     <tr>
-    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/fifth.ipynb">Предсказание цены автомобиля</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/sixth.ipynb">Предсказание цены автомобиля</a></td>
     <td>Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Вам нужно построить модель для определения стоимости.</td>
     <td>pandas,
 matplotlib,
@@ -90,7 +90,7 @@ numpy,
 sklearn, catboost, lightgbm, xgboost</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/fifth.ipynb">Прогнозирование заказов такси на следующий час</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/sixth.ipynb">Прогнозирование заказов такси на следующий час</a></td>
     <td>Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.</td>
     <td>pandas,
 matplotlib,
