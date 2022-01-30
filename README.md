@@ -16,7 +16,7 @@ I will try my best to elaborate them in their names
     <td>pandas</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/first.ipynb">Исследование объявлений о продаже квартир</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/second.ipynb">Исследование объявлений о продаже квартир</a></td>
     <td>В вашем распоряжении данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости</td>
     <td>pandas, matplotlib</td>
   </tr>
