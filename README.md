@@ -47,7 +47,7 @@ sklearn</td>
   </tr>
   </tr>
     <tr>
-    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/fifth.ipynb">Предсказание оттока клиентов из банка</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/sixth.ipynb">Предсказание оттока клиентов из банка</a></td>
     <td>Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Вам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.</td>
     <td>pandas,
 numpy,
