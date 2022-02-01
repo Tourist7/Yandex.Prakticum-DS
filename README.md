@@ -74,7 +74,7 @@ sklearn</td>
   </tr>
   </tr>
     <tr>
-    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/sixth.ipynb">Разработка алгоритма для защиты данных</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/ninth.ipynb">Разработка алгоритма для защиты данных</a></td>
     <td>Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуйте корректность его работы.</td>
     <td>pandas,
 numpy,
