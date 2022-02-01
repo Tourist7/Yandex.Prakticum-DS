@@ -55,7 +55,7 @@ sklearn</td>
   </tr>
   </tr>
     <tr>
-    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/sixth.ipynb">Предсказание лучшего места для скважины</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/seventh.ipynb">Предсказание лучшего места для скважины</a></td>
     <td>Вам предоставлены пробы нефти в трёх регионах. Характеристики для каждой скважины в регионе уже известны. Постройте модель для определения региона, где добыча принесёт наибольшую прибыль.</td>
     <td>pandas,
 numpy,
