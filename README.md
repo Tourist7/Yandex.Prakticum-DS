@@ -90,7 +90,7 @@ numpy,
 sklearn, catboost, lightgbm, xgboost</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/sixth.ipynb">Прогнозирование заказов такси на следующий час</a></td>
+    <td><a href="https://github.com/Tourist7/Yandex.Prakticum-DS/blob/main/eleventh.ipynb">Прогнозирование заказов такси на следующий час</a></td>
     <td>Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.</td>
     <td>pandas,
 matplotlib,
